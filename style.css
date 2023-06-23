@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.block-elements{
+    background-color: teal;
+    height: 100vh;
+    padding: 10px;
+}
+
+.inline-elements{
+    background-color: rgb(235, 185, 124);
+    height: 100vh;
+    display: flex;
+}
+
+.item{
+    width: 25%;
+    height: 20vh;
+    background-color: #fff;
+    margin: 10px 15px;
+
+}
+
